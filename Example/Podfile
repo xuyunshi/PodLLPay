@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PodLLPay_Example' do
+  pod 'PodLLPay', :path => '../'
+
+  target 'PodLLPay_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
