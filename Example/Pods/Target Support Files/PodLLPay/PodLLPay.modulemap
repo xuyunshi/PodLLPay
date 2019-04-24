@@ -1,0 +1,6 @@
+framework module PodLLPay {
+  umbrella header "PodLLPay-umbrella.h"
+
+  export *
+  module * { export * }
+}

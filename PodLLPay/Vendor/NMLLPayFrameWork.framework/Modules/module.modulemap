@@ -1,0 +1,6 @@
+framework module NMLLPayFrameWork {
+  umbrella header "NMLLPayFrameWork.h"
+
+  export *
+  module * { export * }
+}

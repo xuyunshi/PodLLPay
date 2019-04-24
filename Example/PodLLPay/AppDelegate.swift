@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import NMLLPayFrameWork
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

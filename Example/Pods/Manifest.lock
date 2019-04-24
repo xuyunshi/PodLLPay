@@ -1,0 +1,16 @@
+PODS:
+  - PodLLPay (0.1.0)
+
+DEPENDENCIES:
+  - PodLLPay (from `../`)
+
+EXTERNAL SOURCES:
+  PodLLPay:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodLLPay: 6f699d5571a19405ec38270fafad8c37c9d027be
+
+PODFILE CHECKSUM: eee52ffab56b9df4dbc648eaf72c042582201bac
+
+COCOAPODS: 1.5.3

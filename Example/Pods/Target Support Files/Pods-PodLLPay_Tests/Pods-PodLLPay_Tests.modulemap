@@ -1,0 +1,6 @@
+framework module Pods_PodLLPay_Tests {
+  umbrella header "Pods-PodLLPay_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
