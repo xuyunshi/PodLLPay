@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '405029644@qq.com' => '405029644@qq.com' }
-  s.source           = { :git => 'git@github.com:xuyunshi/PodLLPay.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/xuyunshi/PodLLPay.git', :tag => s.version.to_s }
   s.vendored_frameworks = 'PodLLPay/Vendor/*.framework'
 
   s.ios.deployment_target = '9.0'
